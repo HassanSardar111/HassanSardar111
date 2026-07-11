@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 Seventh-semester Artificial Intelligence undergraduate.
+🎓 Eighth-semester Artificial Intelligence undergraduate.
 
 💡 Passionate about Machine Learning, Deep Learning, NLP, and AI-powered applications.
 
