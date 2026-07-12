@@ -1,44 +1,57 @@
-# Hi there, I'm Hassan Jahangir 👋
+# Hi, I'm Hassan Jahangir 👋
 
-## 🚀 About Me
+🎓 Seventh-semester undergraduate student in Artificial Intelligence.
 
-🎓 Eighth-semester Artificial Intelligence undergraduate.
+💻 Passionate about Machine Learning, Deep Learning, NLP, Computer Vision, and AI-powered applications.
 
-💡 Passionate about Machine Learning, Deep Learning, NLP, and AI-powered applications.
-
-🔭 Currently working on AI projects and exploring Agentic AI systems.
-
----
-
-## 🛠️ Tech Stack
+## 🚀 Technologies & Tools
 
 - Python
 - Machine Learning
 - Deep Learning
-- NLP
-- Flask
 - TensorFlow
+- PyTorch
+- Flask
+- OpenCV
 - Scikit-learn
+- Pandas
+- NumPy
+- NLP
 - Git & GitHub
-- Prompt Engineering
+
+## 📌 Featured Projects
+
+### 🩺 Skin Cancer Detection using Vision Transformer
+
+Built a skin disease detection system using Vision Transformers and Flask.
+
+**Tech stack:** Python, PyTorch, ViT, Flask.
 
 ---
 
-## 📌 Current Focus
+### 🔒 Cybersecurity Threat Detection
 
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- Fraud Detection Systems
-- Computer Vision
-- NLP Applications
+Machine learning model for cybersecurity threat analysis.
+
+**Tech stack:** Python, Scikit-learn, Pandas.
 
 ---
 
-## 🌐 Connect With Me
+### 🌐 Distributed Web Crawler
+
+Parallel web crawler built using Python.
+
+**Tech stack:** Python, Multiprocessing.
+
+---
+
+### 💳 AI Fraud Detection System
+
+Fraud detection model using machine learning techniques.
+
+**Tech stack:** Python, TensorFlow.
+
+## 📫 Connect with me
 
 - LinkedIn: https://www.linkedin.com/in/hassan-jahangir1
 - GitHub: https://github.com/HassanSardar111
-
----
-
-⭐ Always learning and building new things.
